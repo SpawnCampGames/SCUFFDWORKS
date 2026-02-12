@@ -1,4 +1,6 @@
 # SCUFFDWORKS
 > GameDev meets FPV
 
-FPV Drone Related Resources and Assets
+![SCUFFDWORKS FPV](SCUFFDWORKS.png)
+
+`FPV [DRONE]` Resources, Assets, content..
