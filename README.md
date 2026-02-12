@@ -1,6 +1,5 @@
-# SCUFFDWORKS
-> GameDev meets FPV
-
 ![SCUFFDWORKS FPV](SCUFFDWORKS.png)
 
-`FPV [DRONE]` Resources, Assets, content..
+### SCUFFDWORKS
+> GameDev🕹️ meets FPV
+`FPV [DRONE]` Pilot Resources, Assets, content..
